@@ -1,4 +1,4 @@
-<p style="font-size:24px; font-weight:bold;">Olá!</p>
+# <p style="font-size:24px; font-weight:bold;">Olá!</p>
 
 <p style="font-size:18px;">Sou <strong>Leonardo Bastos</strong>, <strong>Analista de Business Intelligence</strong> buscando atuar em prol de decisões baseadas em dados.</p>
 <p style="font-size:18px;">Possuo experiência em bancos de dados relacionais, SQL, ferramentas de visualização (como Power BI) e processos de ETL.</p>
